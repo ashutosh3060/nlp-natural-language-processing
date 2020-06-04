@@ -1,3 +1,4 @@
 # Resources
 
 https://www.analyticsvidhya.com/blog/2020/03/6-pretrained-models-text-classification/
+https://www.tensorflow.org/tutorials/text/transformer
