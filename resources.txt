@@ -6,4 +6,4 @@ https://www.tensorflow.org/tutorials/text/transformer
 https://towardsdatascience.com/https-medium-com-chaturangarajapakshe-text-classification-with-transformer-models-d370944b50ca
 https://atheros.ai/blog/text-classification-with-transformers-in-tensorflow-2
 
-
+https://huggingface.co/transformers/
