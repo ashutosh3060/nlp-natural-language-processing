@@ -1,0 +1,6 @@
+# Blogs
+https://towardsdatascience.com/nlp-extracting-the-main-topics-from-your-dataset-using-lda-in-minutes-21486f5aa925
+
+
+# Research Paper
+http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
