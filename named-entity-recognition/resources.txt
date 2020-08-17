@@ -1,0 +1,7 @@
+# Resources:
+
+1. https://en.wikipedia.org/wiki/Named-entity_recognition
+2. https://pythonprogramming.net/named-entity-recognition-nltk-tutorial/
+3. https://www.youtube.com/watch?v=9qz1yEQlVhg
+4. https://www.kdnuggets.com/2018/08/named-entity-recognition-practitioners-guide-nlp-4.html
+5. https://www.kdnuggets.com/2018/12/introduction-named-entity-recognition.html
